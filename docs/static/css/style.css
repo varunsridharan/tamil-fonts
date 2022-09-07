@@ -1,7 +1,38 @@
 .main-content {
     margin-top: 120px;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 .preview-text {
-  font-size: 35px;
+    font-size: 25px;
+    display: inline-block;
+    width: 100%;
+}
+
+.ui > .column > .ui.font-selected {
+    border: 1px solid blue;
+}
+
+.ui > .column > .ui {
+    border: 1px solid transparent;
+}
+
+.preview-text.font-bold {
+    font-weight: bold;
+}
+.preview-text.font-italic {
+    font-style: italic;
+}
+
+i.bold, i.italic {
+    cursor: pointer;
+}
+
+i.bold:hover, i.italic:hover {
+    color: #595959;
+}
+
+i.bold.active, i.italic.active {
+    color: black;
 }

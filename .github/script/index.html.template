@@ -14,23 +14,43 @@
 
 <body>
 
-    <main class="main-content">
-        <div class="ui container">
-            <div class="ui stackable three column grid">
+    <nav class="ui top fixed huge menu">
+        <div class="item"> <h4>Tamil Fonts</h4></div>
+        <div class="item">
+        <div class="ui icon input"> <input type="text" placeholder="Sample Text" id="input" value="வணக்கம் / Hello"> <i class="pencil alternate icon"></i> </div>
+        </div>
+        <div class="item">
+            <div class="ui icon input"> <input type="number" placeholder="Font Size" id="preview-font-size" value="25"><i class="font icon"></i></div>
+        </div>
+        <div class="right menu">
+            <div class="item"><p id="showings"></p> </div>
+        </div>
+    </nav>
+
+    <main class="main-content" style="margin-top: 100px;">
+        <div class="ui container" style="width: 96% !important;margin-left: 40px !important;margin-right: 60px !important;">
+           <!-- <div class="ui stackable three column grid">
                 <div class="column">
                     <div class="ui icon fluid input">
-                        <input type="text" placeholder="Sample Text" id="input">
+                        <input type="text" placeholder="Sample Text" id="input" value="வணக்கம் / Hello">
                         <i class="pencil alternate icon"></i>
                     </div>
                 </div>
                 <div class="column">
                     <div class="ui icon fluid input">
-                        <input type="number" placeholder="Font Size" id="preview-font-size">
+                        <input type="number" placeholder="Font Size" id="preview-font-size" value="25">
                         <i class="font icon"></i>
                     </div>
                 </div>
-            </div>
-            <div class="ui stackable two column grid"> {{HTML}} </div>
+                <div class="column">
+                    <div class="ui fluid floating labeled icon dropdown button">
+                        <i class="font icon"></i>
+                        <span class="text">All Category</span>
+                        <div class="menu">{{CATEGORY_HTML}}</div>
+                    </div>
+                </div>
+            </div> -->
+            <div class="ui stackable four column grid" id="fontslist"> {{HTML}} </div>
         </div>
     </main>
 

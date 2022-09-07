@@ -1,12 +1,9 @@
-<div class="column">
+<div class="preview-text-container column {{CATEGORY}}">
     <div class="ui fluid card">
         <div class="content">
-            <div class="header">{{FONT_NAME}}</div>
-        </div>
-        <div class="content">
-            <div class="ui small feed">
-                <p class="preview-text font-{{hash}}">வணக்கம் / Hello</p>
-            </div>
+        <div class="header">{{FONT_NAME}}
+            <div class="right floated meta"> <i  id="preview-{{hash}}" class="bold icon"></i> <i id="preview-{{hash}}"  class="italic icon"></i> <a href="{{DOWNLOAD_URL}}"> <i class="download icon"></i> </a> </div> </div>
+            <div class="ui small feed"> <p  contenteditable="true" id="preview-{{hash}}" class="preview-text {{PREVIEW_CSS_CLASS}}">{{EXAMPLE}}</p> </div>
         </div>
     </div>
 </div>
