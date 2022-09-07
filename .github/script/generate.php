@@ -1,6 +1,6 @@
 <?php
 
-$fonts = glob(__DIR__ . '/../../website/static/fonts/*.*');
+$fonts = glob(__DIR__ . '/../../docs/static/fonts/*.*');
 
 $html = '';
 $css = '';
@@ -24,5 +24,5 @@ if (!empty($fonts)) {
 
 $html_final = file_get_contents(__DIR__ . '/index.html.template');
 $html_final = str_replace('{{HTML}}', $html, $html_final);
-file_put_contents(__DIR__ . '/../../website/index.html', $html_final);
-file_put_contents(__DIR__ . '/../../website/static/css/fonts.css', $css);
+file_put_contents(__DIR__ . '/../../docs/index.html', $html_final);
+file_put_contents(__DIR__ . '/../../docs/static/css/fonts.css', $css);

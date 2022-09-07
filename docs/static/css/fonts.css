@@ -1,9 +1,59 @@
+@font-face { font-family: "8dbd55e0082acbd681505f59848cf10a"; src: url(../fonts/ATM 001.ttf); } .font-8dbd55e0082acbd681505f59848cf10a { font-family: "8dbd55e0082acbd681505f59848cf10a"; }
+@font-face { font-family: "712fc52be1febd1e064d1f88d639ac51"; src: url(../fonts/ATM 001_Bold.ttf); } .font-712fc52be1febd1e064d1f88d639ac51 { font-family: "712fc52be1febd1e064d1f88d639ac51"; }
+@font-face { font-family: "96056e6e2dc6da86daa7077af7f5ab02"; src: url(../fonts/ATM 001_BoldItalic.ttf); } .font-96056e6e2dc6da86daa7077af7f5ab02 { font-family: "96056e6e2dc6da86daa7077af7f5ab02"; }
+@font-face { font-family: "d861539ed9a070da40ac6831dcf01704"; src: url(../fonts/ATM 001_Italic.ttf); } .font-d861539ed9a070da40ac6831dcf01704 { font-family: "d861539ed9a070da40ac6831dcf01704"; }
+@font-face { font-family: "1d598af6af9bf8eed71980207024b0f3"; src: url(../fonts/ATM 002.ttf); } .font-1d598af6af9bf8eed71980207024b0f3 { font-family: "1d598af6af9bf8eed71980207024b0f3"; }
+@font-face { font-family: "d29e797ce61366c436bba79beaef21d3"; src: url(../fonts/ATM 002_Bold.ttf); } .font-d29e797ce61366c436bba79beaef21d3 { font-family: "d29e797ce61366c436bba79beaef21d3"; }
+@font-face { font-family: "080b01f86b72b0b4ee77525fdd144dca"; src: url(../fonts/ATM 002_BoldItalic.ttf); } .font-080b01f86b72b0b4ee77525fdd144dca { font-family: "080b01f86b72b0b4ee77525fdd144dca"; }
+@font-face { font-family: "ebbb99cb30a4a1840adf2b7b5b8f0d31"; src: url(../fonts/ATM 002_Italic.ttf); } .font-ebbb99cb30a4a1840adf2b7b5b8f0d31 { font-family: "ebbb99cb30a4a1840adf2b7b5b8f0d31"; }
+@font-face { font-family: "90c880de80d9ea8bebe25952241b2fa6"; src: url(../fonts/ATM 003.ttf); } .font-90c880de80d9ea8bebe25952241b2fa6 { font-family: "90c880de80d9ea8bebe25952241b2fa6"; }
+@font-face { font-family: "1ffaeb106e4682677271eef1bdde337c"; src: url(../fonts/ATM 003_Bold.ttf); } .font-1ffaeb106e4682677271eef1bdde337c { font-family: "1ffaeb106e4682677271eef1bdde337c"; }
+@font-face { font-family: "6674f79db8ac0140babaf5d23a0ebe60"; src: url(../fonts/ATM 003_BoldItalic.ttf); } .font-6674f79db8ac0140babaf5d23a0ebe60 { font-family: "6674f79db8ac0140babaf5d23a0ebe60"; }
+@font-face { font-family: "874b983225ef73c09d357f44a8b65d22"; src: url(../fonts/ATM 003_Italic.ttf); } .font-874b983225ef73c09d357f44a8b65d22 { font-family: "874b983225ef73c09d357f44a8b65d22"; }
+@font-face { font-family: "2843e041293d8e6d1226dd7c6a91e167"; src: url(../fonts/ATM 004.ttf); } .font-2843e041293d8e6d1226dd7c6a91e167 { font-family: "2843e041293d8e6d1226dd7c6a91e167"; }
+@font-face { font-family: "f163e24c7cbd27d1c45211491b0ee88a"; src: url(../fonts/ATM 004_Bold.ttf); } .font-f163e24c7cbd27d1c45211491b0ee88a { font-family: "f163e24c7cbd27d1c45211491b0ee88a"; }
+@font-face { font-family: "f8904cb22bd807c99112bbbd061ee689"; src: url(../fonts/ATM 004_BoldItalic.ttf); } .font-f8904cb22bd807c99112bbbd061ee689 { font-family: "f8904cb22bd807c99112bbbd061ee689"; }
+@font-face { font-family: "10e336914d5b0a9c89fe863d2f3b5ab5"; src: url(../fonts/ATM 004_Italic.ttf); } .font-10e336914d5b0a9c89fe863d2f3b5ab5 { font-family: "10e336914d5b0a9c89fe863d2f3b5ab5"; }
+@font-face { font-family: "cfa9fb87b42f56cd1983d68155d2951f"; src: url(../fonts/ATM 005.ttf); } .font-cfa9fb87b42f56cd1983d68155d2951f { font-family: "cfa9fb87b42f56cd1983d68155d2951f"; }
+@font-face { font-family: "d2ff8523b25443b6c2f2ad50997ce664"; src: url(../fonts/ATM 005_Bold.ttf); } .font-d2ff8523b25443b6c2f2ad50997ce664 { font-family: "d2ff8523b25443b6c2f2ad50997ce664"; }
+@font-face { font-family: "c73800b7fa0d1ae7a802b25783e4038a"; src: url(../fonts/ATM 005_BoldItalic.ttf); } .font-c73800b7fa0d1ae7a802b25783e4038a { font-family: "c73800b7fa0d1ae7a802b25783e4038a"; }
+@font-face { font-family: "00712171fb89943a4ffb033a18a8293d"; src: url(../fonts/ATM 005_Italic.ttf); } .font-00712171fb89943a4ffb033a18a8293d { font-family: "00712171fb89943a4ffb033a18a8293d"; }
+@font-face { font-family: "f336bcbd5b687a6166d1f645a586d124"; src: url(../fonts/ATM 006.ttf); } .font-f336bcbd5b687a6166d1f645a586d124 { font-family: "f336bcbd5b687a6166d1f645a586d124"; }
+@font-face { font-family: "e2beeae2267c8872a0d8d11bdc417723"; src: url(../fonts/ATM 006_Bold.ttf); } .font-e2beeae2267c8872a0d8d11bdc417723 { font-family: "e2beeae2267c8872a0d8d11bdc417723"; }
+@font-face { font-family: "5601af5a2f3e73654927c6f47b7caac2"; src: url(../fonts/ATM 006_BoldItalic.ttf); } .font-5601af5a2f3e73654927c6f47b7caac2 { font-family: "5601af5a2f3e73654927c6f47b7caac2"; }
+@font-face { font-family: "a78be6d847031d3c64f463ade666b02c"; src: url(../fonts/ATM 006_Italic.ttf); } .font-a78be6d847031d3c64f463ade666b02c { font-family: "a78be6d847031d3c64f463ade666b02c"; }
+@font-face { font-family: "e38efcd51c3e141da252386662279156"; src: url(../fonts/ATM 007.ttf); } .font-e38efcd51c3e141da252386662279156 { font-family: "e38efcd51c3e141da252386662279156"; }
+@font-face { font-family: "fbc14ef3cd05933b064c45a197ec78bc"; src: url(../fonts/ATM 007_Bold.ttf); } .font-fbc14ef3cd05933b064c45a197ec78bc { font-family: "fbc14ef3cd05933b064c45a197ec78bc"; }
+@font-face { font-family: "0581c03a68290d16038522541955e202"; src: url(../fonts/ATM 007_BoldItalic.ttf); } .font-0581c03a68290d16038522541955e202 { font-family: "0581c03a68290d16038522541955e202"; }
+@font-face { font-family: "f10f12e576b62241899dd16d725a6a46"; src: url(../fonts/ATM 007_Italic.ttf); } .font-f10f12e576b62241899dd16d725a6a46 { font-family: "f10f12e576b62241899dd16d725a6a46"; }
+@font-face { font-family: "dd6540e777b59dbfdf9e23660c06b7ee"; src: url(../fonts/ATM 008.ttf); } .font-dd6540e777b59dbfdf9e23660c06b7ee { font-family: "dd6540e777b59dbfdf9e23660c06b7ee"; }
+@font-face { font-family: "1e6619ae968d51a883b2b0c6ff957fb2"; src: url(../fonts/ATM 008_Bold.ttf); } .font-1e6619ae968d51a883b2b0c6ff957fb2 { font-family: "1e6619ae968d51a883b2b0c6ff957fb2"; }
+@font-face { font-family: "7b23f4eb0b04ef80d335b61a2f52cf2e"; src: url(../fonts/ATM 008_BoldItalic.ttf); } .font-7b23f4eb0b04ef80d335b61a2f52cf2e { font-family: "7b23f4eb0b04ef80d335b61a2f52cf2e"; }
+@font-face { font-family: "4f3da682622966f0cbad476f78ea879a"; src: url(../fonts/ATM 008_Italic.ttf); } .font-4f3da682622966f0cbad476f78ea879a { font-family: "4f3da682622966f0cbad476f78ea879a"; }
+@font-face { font-family: "695043c73b546cfa5ab5601ec9c283ec"; src: url(../fonts/ATM 009.ttf); } .font-695043c73b546cfa5ab5601ec9c283ec { font-family: "695043c73b546cfa5ab5601ec9c283ec"; }
+@font-face { font-family: "62e46fa29298be3386e3778f2c00937b"; src: url(../fonts/ATM 009_Bold.ttf); } .font-62e46fa29298be3386e3778f2c00937b { font-family: "62e46fa29298be3386e3778f2c00937b"; }
+@font-face { font-family: "8ad05f79504184dc345bfd2194e0d8cc"; src: url(../fonts/ATM 009_BoldItalic.ttf); } .font-8ad05f79504184dc345bfd2194e0d8cc { font-family: "8ad05f79504184dc345bfd2194e0d8cc"; }
+@font-face { font-family: "79929b2a945f9b3ee0405ff837cde618"; src: url(../fonts/ATM 009_Italic.ttf); } .font-79929b2a945f9b3ee0405ff837cde618 { font-family: "79929b2a945f9b3ee0405ff837cde618"; }
+@font-face { font-family: "a59a8799cd72570da8fbe709ca75e9c5"; src: url(../fonts/ATM 010.ttf); } .font-a59a8799cd72570da8fbe709ca75e9c5 { font-family: "a59a8799cd72570da8fbe709ca75e9c5"; }
 @font-face { font-family: "a510d2b138d20e9b70231add190bbbc4"; src: url(../fonts/Sai-Sai.ttf); } .font-a510d2b138d20e9b70231add190bbbc4 { font-family: "a510d2b138d20e9b70231add190bbbc4"; }
 @font-face { font-family: "f8b9d3b5a5cc348931983715bd1e94a2"; src: url(../fonts/SaiEmbed-forPDF.ttf); } .font-f8b9d3b5a5cc348931983715bd1e94a2 { font-family: "f8b9d3b5a5cc348931983715bd1e94a2"; }
 @font-face { font-family: "2e53085d7cb10fa945e19146490940de"; src: url(../fonts/SaiIndira.ttf); } .font-2e53085d7cb10fa945e19146490940de { font-family: "2e53085d7cb10fa945e19146490940de"; }
 @font-face { font-family: "f72e62c612d58f6a0d82b330a0ee743a"; src: url(../fonts/SaiMeera.ttf); } .font-f72e62c612d58f6a0d82b330a0ee743a { font-family: "f72e62c612d58f6a0d82b330a0ee743a"; }
 @font-face { font-family: "49caab1ab176d66f1c3c0559eff22c10"; src: url(../fonts/SaiVrishin.ttf); } .font-49caab1ab176d66f1c3c0559eff22c10 { font-family: "49caab1ab176d66f1c3c0559eff22c10"; }
+@font-face { font-family: "ead4908d111b4c8ee9264404e53d02b1"; src: url(../fonts/TAU-Nilavu Bold.ttf); } .font-ead4908d111b4c8ee9264404e53d02b1 { font-family: "ead4908d111b4c8ee9264404e53d02b1"; }
+@font-face { font-family: "7bf985f27d66578412adf24ed1c138b9"; src: url(../fonts/TAU-Nilavu Italic.ttf); } .font-7bf985f27d66578412adf24ed1c138b9 { font-family: "7bf985f27d66578412adf24ed1c138b9"; }
+@font-face { font-family: "cda768f533beeb45fff87be31c03b44c"; src: url(../fonts/TAU-Nilavu.ttf); } .font-cda768f533beeb45fff87be31c03b44c { font-family: "cda768f533beeb45fff87be31c03b44c"; }
+@font-face { font-family: "6cba3bcfb008a77de07d2fdf9103e99b"; src: url(../fonts/TAU-Paalai Bold.ttf); } .font-6cba3bcfb008a77de07d2fdf9103e99b { font-family: "6cba3bcfb008a77de07d2fdf9103e99b"; }
+@font-face { font-family: "e745e146737b04ebe52ca1305e040982"; src: url(../fonts/TAU-Paalai Italic.ttf); } .font-e745e146737b04ebe52ca1305e040982 { font-family: "e745e146737b04ebe52ca1305e040982"; }
+@font-face { font-family: "c85b8ffe1a42c7e469fe9e796212c98b"; src: url(../fonts/TAU-Paalai.ttf); } .font-c85b8ffe1a42c7e469fe9e796212c98b { font-family: "c85b8ffe1a42c7e469fe9e796212c98b"; }
 @font-face { font-family: "eb8ec3c8410c6e59f43ddd8cf5546677"; src: url(../fonts/TAU-Ponni.ttf); } .font-eb8ec3c8410c6e59f43ddd8cf5546677 { font-family: "eb8ec3c8410c6e59f43ddd8cf5546677"; }
+@font-face { font-family: "7e0b76df550039db04868307fb43945d"; src: url(../fonts/TAU-Urai Bold.ttf); } .font-7e0b76df550039db04868307fb43945d { font-family: "7e0b76df550039db04868307fb43945d"; }
+@font-face { font-family: "57845def067c7184bb7e25d7cbe6aa76"; src: url(../fonts/TAU-Urai Italic.ttf); } .font-57845def067c7184bb7e25d7cbe6aa76 { font-family: "57845def067c7184bb7e25d7cbe6aa76"; }
+@font-face { font-family: "45226f42ad07def8217fda546db08040"; src: url(../fonts/TAU-Urai.ttf); } .font-45226f42ad07def8217fda546db08040 { font-family: "45226f42ad07def8217fda546db08040"; }
+@font-face { font-family: "2d111200f940ad9a961491b8573242bc"; src: url(../fonts/TAU-Valluvar-B.ttf); } .font-2d111200f940ad9a961491b8573242bc { font-family: "2d111200f940ad9a961491b8573242bc"; }
+@font-face { font-family: "60a7bd0d917907466cc2b6f66c15f2ae"; src: url(../fonts/TAU-Valluvar-BI.ttf); } .font-60a7bd0d917907466cc2b6f66c15f2ae { font-family: "60a7bd0d917907466cc2b6f66c15f2ae"; }
+@font-face { font-family: "c44971cd2510f5220305e396401aa499"; src: url(../fonts/TAU-Valluvar-I.ttf); } .font-c44971cd2510f5220305e396401aa499 { font-family: "c44971cd2510f5220305e396401aa499"; }
+@font-face { font-family: "7636af00f2fcb2d9b1fc738b5f162df4"; src: url(../fonts/TAU-Valluvar.ttf); } .font-7636af00f2fcb2d9b1fc738b5f162df4 { font-family: "7636af00f2fcb2d9b1fc738b5f162df4"; }
 @font-face { font-family: "00f1080c5c1bee04ada09bf3e95ce6fe"; src: url(../fonts/TAU-kaviri.ttf); } .font-00f1080c5c1bee04ada09bf3e95ce6fe { font-family: "00f1080c5c1bee04ada09bf3e95ce6fe"; }
 @font-face { font-family: "f2f88c3e634f1f887e5d139f806d7a41"; src: url(../fonts/TAU-kollidam.ttf); } .font-f2f88c3e634f1f887e5d139f806d7a41 { font-family: "f2f88c3e634f1f887e5d139f806d7a41"; }
 @font-face { font-family: "4a5ab007bf05d190cad1e2badac74b1f"; src: url(../fonts/TAU-palar-1.ttf); } .font-4a5ab007bf05d190cad1e2badac74b1f { font-family: "4a5ab007bf05d190cad1e2badac74b1f"; }
