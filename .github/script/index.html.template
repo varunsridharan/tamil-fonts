@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Preview</title>
+    <link rel="stylesheet" href="static/css/semantic.min.css">
+    <link rel="stylesheet" href="static/css/fonts.css">
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+
+    <main class="main-content">
+        <div class="ui container">
+            <div class="ui stackable three column grid">
+                <div class="column">
+                    <div class="ui icon fluid input">
+                        <input type="text" placeholder="Sample Text" id="input">
+                        <i class="pencil alternate icon"></i>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="ui icon fluid input">
+                        <input type="number" placeholder="Font Size" id="preview-font-size">
+                        <i class="font icon"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="ui stackable two column grid"> {{HTML}} </div>
+        </div>
+    </main>
+
+
+    <script src="static/js/jquery-3.6.0.slim.min.js"></script>
+    <script src="static/js/semantic.min.js"></script>
+    <script src="static/js/main.js"></script>
+</body>
+</html>

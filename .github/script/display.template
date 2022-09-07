@@ -1,0 +1,12 @@
+<div class="column">
+    <div class="ui fluid card">
+        <div class="content">
+            <div class="header">{{FONT_NAME}}</div>
+        </div>
+        <div class="content">
+            <div class="ui small feed">
+                <p class="preview-text font-{{hash}}">வணக்கம் / Hello</p>
+            </div>
+        </div>
+    </div>
+</div>
