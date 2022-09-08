@@ -6,7 +6,25 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Font Preview</title>
+    <!-- Primary Meta Tags -->
+    <title>Free 1000+ Unicode Based Taml Fonts</title>
+    <meta name="title" content="Free 1000+ Unicode Based Taml Fonts">
+    <meta name="description" content="Download / Live Preview All Tamil Fonts That Works With Adobe Premier Pro / Photoshop">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fonts.svarun.dev/">
+    <meta property="og:title" content="Free 1000+ Unicode Based Taml Fonts">
+    <meta property="og:description" content="Download / Live Preview All Tamil Fonts That Works With Adobe Premier Pro / Photoshop">
+    <meta property="og:image" content="">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://fonts.svarun.dev/">
+    <meta property="twitter:title" content="Free 1000+ Unicode Based Taml Fonts">
+    <meta property="twitter:description" content="Download / Live Preview All Tamil Fonts That Works With Adobe Premier Pro / Photoshop">
+    <meta property="twitter:image" content="">
+
     <link rel="stylesheet" href="static/css/semantic.min.css">
     <link rel="stylesheet" href="static/css/fonts.css">
     <link rel="stylesheet" href="static/css/style.css">
