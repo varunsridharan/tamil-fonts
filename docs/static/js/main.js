@@ -12,6 +12,7 @@ function render_fonts(start, limit) {
         template = template.replaceAll('{{EXAMPLE}}', $("#input").val());
         template = template.replaceAll('{{PREVIEW_CSS_CLASS}}', 'font-' + k['id']);
         template = template.replaceAll('{{hash}}', k['id']);
+        template = template.replaceAll('{{DOWNLOAD_URL}}', 'https://fonts.svarun.dev/static/fonts/' + k['download_file'] );
         $("#fontslist").append(template);
         run++;
     }
